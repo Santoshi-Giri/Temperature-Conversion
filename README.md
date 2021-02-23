@@ -1,4 +1,4 @@
 # Temperature-Conversion
-Summary of Project
+#Summary of Project
 
-This is a simple program to convert temperatures.
+This is a simple C++ program which is written to convert Temperature. It converts temperature from Celsius to Fahrenheit and vice versa.
