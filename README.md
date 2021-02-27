@@ -36,6 +36,9 @@ Fahrenheit to Celsius =(input2 - 32) * (5.0/9.0) here, input2 is temperature in 
 
 Celsius to Fahrenheit = (celsius * 9.0) / 5.0 + 32)
 
+![Temperature conversion](https://user-images.githubusercontent.com/79240067/109403805-6fb7cf00-7925-11eb-8b6e-7569dcb2ef16.PNG)
+
+
 ## Uses of each header files,data types, and conditional statements in the program:
 **#include -** It is a preprocessor directive which tells the preprocessor to include header files in the program.
 
