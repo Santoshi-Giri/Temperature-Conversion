@@ -5,9 +5,13 @@ This is a simple C++ program which is written to convert Temperature. It convert
 
 ## Downloading and installing c++:
 **1.**	First download Visual c++ 2017 community. It is a free Windows C++ compiler by Microsoft.
+
 **2.**	After that download DEV C ++ 5.11
+
 **3.**	Click on the Source Forge to find the list of download sites and pick one. The file will be something similar to devcpp.4.9.9.2_setup.exe.
+
 **4.**	When the download is completed, click on the “open” button to start the installation process. Then you will see the screen with a pop of message to select language you prefer and ask you to agree the license terms. 
+
 **5.** Carefully follow the instructions and accept the suggested location for installation or else you can change the location and finish the installation.
 
 ## Steps for running the program:
@@ -74,6 +78,9 @@ A part of code inserted above shows the use of if and else if statement. These a
 **system("pause");**- It is a windows specific command which tells operating software to run the pause program.
 
 **return 0 ;** - It indicates successful execution of program.
+
+
+
 
 
 
