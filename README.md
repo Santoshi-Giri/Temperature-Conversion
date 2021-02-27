@@ -53,43 +53,27 @@ Celsius to Fahrenheit = (celsius * 9.0) / 5.0 + 32)
 
 **cout** -It is an object of output stream which is used to show or display output in the screen. 
 
-![](https://github.com/Santoshi-Giri/Temperature-Conversion/blob/main/Capture1.PNG)
 
- ** if (input1 == 'c')**
+    if (input1 == 'c')
     {
       cout << "Enter your temperature in Fahrenheit: ";
       cin >> input2;
       cout << endl;
       cout << "Your temperature in Celsius is: " << (input2 - 32) * (5.0/9.0) << endl;
-    }
-
-    else if (input1 == 'C')
-    {
-      cout << "Enter your temperature in Fahrenheit: ";
-      cin >> input2;
-      cout << endl;
-      cout << "Your temperature in Celsius is: " << (input2 - 32) * (5.0/9.0) << endl;
-    }
-
-    if (input1 == 'f')
-  {
-    cout << "Enter your temperature in Celsius: ";
-    cin >> celsius;
-    fahrenheit = (celsius * 9.0) / 5.0 + 32;
-    cout << "Your temperature in Fahrenheit is: " << fahrenheit << endl;
-    
-  }
-
-  else if (input1 == 'F')
-  {
+      }  
+     else if (input1 == 'F')
+     {
     cout << "Enter your temperature in Celsius: ";
     cin >> input2;
     cout << endl;
     cout << "Your temperature in Fahrenheit is: " << (input2 * 1.8) + (32) << endl;
-  }
+    }
 
+A part of code inserted above shows the use of if and else if statement. These are conditional statement which is used to check the condition and if the condition matches it allows program to perform operation other wise it will throw out error.
 
+**system("pause");**- It is a windows specific command which tells operating software to run the pause program.
 
+**return 0 ;** - It indicates successful execution of program.
 
 
 
