@@ -12,20 +12,27 @@ This is a simple C++ program which is written to convert Temperature. It convert
 
 ## Steps for running the program:
 Step 1: We need to configure Dev C++ in order to modify one of the default settings to allow us to use the debugger with our programs.
+
 Step 2:Create a new project. A "project" can simply understood as a particular place where you start to write a code.
-Step 3:Add or create source files
+
+Step 3:Add or create source files.
+
 Step 4:Compile the program which you have written in step 2.
+
 Step 5: Execute the program. You can now run your program. 
+
 Step 6:Debugging the program which means detecting errors in the program and removing them.
 
 If you face any kind of difficulties while installing ,configuring Dev C++ and debugging then Youtube tutorials will be a great help.If you want advance options for debug then you can simply click on the "Debug" tab at the bottom of the screen.
 
 # Description of the Temperature-Conversion Program:
 The program first welcome the user and prompt them to select the options to choose their conversion method. It has two options which are Celsius to Fahrenheit or Fahrenheit to Celsius. The program uses if and else if condition to check the options from the user and ask the to enter the number. It takes the number entered by user as an input and place them into the repective formula for conversion. After the calculation has performed, it will display the result. The formula used in the program is given below:
+
 Fahrenheit to Celsius =(input2 - 32) * (5.0/9.0) here, input2 is temperature in Fahrenheit
+
 Celsius to Fahrenheit = (celsius * 9.0) / 5.0 + 32)
 
-## Uses of each header files,data types, and conditional statements in the program:
+# Uses of each header files,data types, and conditional statements in the program:
 #
 
 
