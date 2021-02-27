@@ -53,7 +53,7 @@ cin - It is an object of the class istream. It is used to accept the input from 
 
 cout -It is an object of output stream which is used to show or display output in the screen. 
 
-![](CAPTURE1.PNG)
+![](https://github.com/Santoshi-Giri/Temperature-Conversion/blob/main/Capture1.PNG)
 
 
 
