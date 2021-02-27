@@ -11,7 +11,7 @@ This is a simple C++ program which is written to convert Temperature. It convert
 5.	Carefully follow the instructions and accept the suggested location for installation or else you can change the location and finish the installation.
 
 ## Steps for running the program:
-Step 1: We need to configure Dev C++ in order to modify one of the default settings to allow us to use the debugger with our programs.
+**Step 1: We need to configure Dev C++ in order to modify one of the default settings to allow us to use the debugger with our programs.
 
 Step 2:Create a new project. A "project" can simply understood as a particular place where you start to write a code.
 
