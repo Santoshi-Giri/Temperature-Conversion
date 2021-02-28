@@ -80,7 +80,7 @@ A part of code inserted above shows the use of if and else if statement. These a
 
 **system("pause");**- It is a windows specific command which tells operating software to run the pause program.
 
-**return 0 ;** - It indicates successful execution of program.
+**return 0 ;** - It indicates successful execution of program. 
 
 
 
