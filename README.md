@@ -3,7 +3,7 @@
 ## Summary of Project
 This is a simple C++ program which is written to convert Temperature. It converts temperature from Celsius to Fahrenheit and vice versa.
 
-## Downloading and installing c++:
+## Downloading and installing C++:
 **1.**	First download Visual c++ 2017 community. It is a free Windows C++ compiler by Microsoft.
 
 **2.**	After that download DEV C ++ 5.11
