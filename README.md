@@ -1,6 +1,6 @@
 # Temperature-Conversion
 
-## Summary of Project
+## Summary of the Project
 This is a simple C++ program which is written to convert Temperature. It converts temperature from Celsius to Fahrenheit and vice versa.
 
 ## Downloading and installing C++:
@@ -29,7 +29,7 @@ This is a simple C++ program which is written to convert Temperature. It convert
 
 If you face any kind of difficulties while installing ,configuring Dev C++ and debugging then YouTube tutorials will be a great help. If you want advance options for debug then you can simply click on the "Debug" tab at the bottom of the screen.
 
-## Description of the Temperature-Conversion Program:
+## Description of the Temperature-Conversion Program
 The program first welcome the user and prompt them to select the options to choose their conversion method. It has two options which are Celsius to Fahrenheit or Fahrenheit to Celsius. It takes alphabet "c" or "C" for Celsius and "f" or "F" for Fahrenheit as a option.The program uses if and else if condition to check the options from the user and ask the to enter the number. It takes the number entered by user as an input and place them into the respective formula for conversion. After the calculation has performed, it will display the result. The formula used in the program is given below:
 
 Fahrenheit to Celsius =(input2 - 32) * (5.0/9.0) here, input2 is temperature in Fahrenheit
